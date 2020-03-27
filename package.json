@@ -1,0 +1,30 @@
+{
+  "name": "transient-error",
+  "version": "0.0.0",
+  "description": "Mark an error as transient, meaning you can retry",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.3",
+    "tape": "^4.13.2"
+  },
+  "keywords": [
+    "error",
+    "retry",
+    "temporary",
+    "transient"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "vweevers/transient-error",
+  "bugs": "https://github.com/vweevers/transient-error/issues",
+  "homepage": "https://github.com/vweevers/transient-error"
+}
