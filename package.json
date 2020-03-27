@@ -1,6 +1,6 @@
 {
   "name": "transient-error",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mark an error as transient, meaning you can retry",
   "license": "MIT",
   "author": "Vincent Weevers",
